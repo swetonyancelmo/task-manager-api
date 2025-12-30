@@ -1,7 +1,7 @@
 package com.swetonyancelmo.taskManager.mapper;
 
-import com.swetonyancelmo.taskManager.dtos.CreateUserRequestDTO;
-import com.swetonyancelmo.taskManager.dtos.UserResponseDTO;
+import com.swetonyancelmo.taskManager.dtos.request.CreateUserRequestDTO;
+import com.swetonyancelmo.taskManager.dtos.response.UserResponseDTO;
 import com.swetonyancelmo.taskManager.models.User;
 import org.springframework.stereotype.Component;
 
