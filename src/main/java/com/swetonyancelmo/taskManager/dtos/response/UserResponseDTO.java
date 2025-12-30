@@ -1,4 +1,4 @@
-package com.swetonyancelmo.taskManager.dtos;
+package com.swetonyancelmo.taskManager.dtos.response;
 
 import com.swetonyancelmo.taskManager.models.User;
 import lombok.AllArgsConstructor;

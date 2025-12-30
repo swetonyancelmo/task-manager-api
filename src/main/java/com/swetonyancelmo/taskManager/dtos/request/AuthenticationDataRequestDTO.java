@@ -1,4 +1,4 @@
-package com.swetonyancelmo.taskManager.dtos;
+package com.swetonyancelmo.taskManager.dtos.request;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
