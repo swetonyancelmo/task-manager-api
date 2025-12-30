@@ -1,6 +1,6 @@
 package com.swetonyancelmo.taskManager.service;
 
-import com.swetonyancelmo.taskManager.dtos.CreateUserRequestDTO;
+import com.swetonyancelmo.taskManager.dtos.request.CreateUserRequestDTO;
 import com.swetonyancelmo.taskManager.exceptions.EmailAlreadyRegisteredException;
 import com.swetonyancelmo.taskManager.exceptions.ResourceNotFoundException;
 import com.swetonyancelmo.taskManager.mapper.UserMapper;
